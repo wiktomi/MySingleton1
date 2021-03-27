@@ -1,0 +1,2 @@
+# MySingleton
+ 
